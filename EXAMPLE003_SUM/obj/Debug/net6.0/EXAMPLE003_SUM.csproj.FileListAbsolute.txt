@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Examples\EXAMPLE003_SUM\bin\Debug\net6.0\EXAMPLE003_SUM.exe
+C:\Users\Asus\Desktop\Examples\EXAMPLE003_SUM\bin\Debug\net6.0\EXAMPLE003_SUM.deps.json
+C:\Users\Asus\Desktop\Examples\EXAMPLE003_SUM\bin\Debug\net6.0\EXAMPLE003_SUM.runtimeconfig.json
+C:\Users\Asus\Desktop\Examples\EXAMPLE003_SUM\bin\Debug\net6.0\EXAMPLE003_SUM.dll
+C:\Users\Asus\Desktop\Examples\EXAMPLE003_SUM\bin\Debug\net6.0\EXAMPLE003_SUM.pdb
+C:\Users\Asus\Desktop\Examples\EXAMPLE003_SUM\obj\Debug\net6.0\EXAMPLE003_SUM.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Examples\EXAMPLE003_SUM\obj\Debug\net6.0\EXAMPLE003_SUM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Examples\EXAMPLE003_SUM\obj\Debug\net6.0\EXAMPLE003_SUM.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Examples\EXAMPLE003_SUM\obj\Debug\net6.0\EXAMPLE003_SUM.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Examples\EXAMPLE003_SUM\obj\Debug\net6.0\EXAMPLE003_SUM.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Examples\EXAMPLE003_SUM\obj\Debug\net6.0\EXAMPLE003_SUM.dll
+C:\Users\Asus\Desktop\Examples\EXAMPLE003_SUM\obj\Debug\net6.0\refint\EXAMPLE003_SUM.dll
+C:\Users\Asus\Desktop\Examples\EXAMPLE003_SUM\obj\Debug\net6.0\EXAMPLE003_SUM.pdb
+C:\Users\Asus\Desktop\Examples\EXAMPLE003_SUM\obj\Debug\net6.0\EXAMPLE003_SUM.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Examples\EXAMPLE003_SUM\obj\Debug\net6.0\ref\EXAMPLE003_SUM.dll

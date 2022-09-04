@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Examples\EXAMPLE005_ConditionIfElse\bin\Debug\net6.0\EXAMPLE005_ConditionIfElse.exe
+C:\Users\Asus\Desktop\Examples\EXAMPLE005_ConditionIfElse\bin\Debug\net6.0\EXAMPLE005_ConditionIfElse.deps.json
+C:\Users\Asus\Desktop\Examples\EXAMPLE005_ConditionIfElse\bin\Debug\net6.0\EXAMPLE005_ConditionIfElse.runtimeconfig.json
+C:\Users\Asus\Desktop\Examples\EXAMPLE005_ConditionIfElse\bin\Debug\net6.0\EXAMPLE005_ConditionIfElse.dll
+C:\Users\Asus\Desktop\Examples\EXAMPLE005_ConditionIfElse\bin\Debug\net6.0\EXAMPLE005_ConditionIfElse.pdb
+C:\Users\Asus\Desktop\Examples\EXAMPLE005_ConditionIfElse\obj\Debug\net6.0\EXAMPLE005_ConditionIfElse.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Examples\EXAMPLE005_ConditionIfElse\obj\Debug\net6.0\EXAMPLE005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Examples\EXAMPLE005_ConditionIfElse\obj\Debug\net6.0\EXAMPLE005_ConditionIfElse.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Examples\EXAMPLE005_ConditionIfElse\obj\Debug\net6.0\EXAMPLE005_ConditionIfElse.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Examples\EXAMPLE005_ConditionIfElse\obj\Debug\net6.0\EXAMPLE005_ConditionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Examples\EXAMPLE005_ConditionIfElse\obj\Debug\net6.0\EXAMPLE005_ConditionIfElse.dll
+C:\Users\Asus\Desktop\Examples\EXAMPLE005_ConditionIfElse\obj\Debug\net6.0\refint\EXAMPLE005_ConditionIfElse.dll
+C:\Users\Asus\Desktop\Examples\EXAMPLE005_ConditionIfElse\obj\Debug\net6.0\EXAMPLE005_ConditionIfElse.pdb
+C:\Users\Asus\Desktop\Examples\EXAMPLE005_ConditionIfElse\obj\Debug\net6.0\EXAMPLE005_ConditionIfElse.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Examples\EXAMPLE005_ConditionIfElse\obj\Debug\net6.0\ref\EXAMPLE005_ConditionIfElse.dll
